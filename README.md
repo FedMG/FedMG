@@ -1,9 +1,9 @@
 <!--
-   <img align="center" width="180" src="https://avatars.githubusercontent.com/u/75050231?v=4" />  
--->
 <p align="center" width="300">
+   <img align="center" width="180" src="https://avatars.githubusercontent.com/u/75050231?v=4" />  
    <h3 align="center">FedMG</h3>
 </p>
+-->
 
 
 <p align="center">
