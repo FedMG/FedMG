@@ -38,7 +38,7 @@
 <div align="center">
   <h3>About me</h3>
   <p>
-  I like to learn new things and talk about things that fascinate me about the IT world such as technological and scientific advances, AI and Machine Learning.
+  I like to learn new things and talk about things that fascinate me about the IT and Computer Science world.
   </p>
 </div>
 
