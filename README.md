@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  Hi there 👋 I'm a <strong>FullStack Developer</strong> student
+  Hi there 👋 I'm a <strong>Software Developer | Full-stack</strong>
 </p>
 
 
@@ -31,6 +31,9 @@
   <li>
     I’m looking and I would like to collaborate on projects <strong>Open Source</strong>.
   </li>
+  <li>
+    This is my personal <a href="https://saydeploy.vercel.app/" target="blank">portfolio</a>.
+  </li>
 </ul>
 
 <br />
@@ -39,6 +42,9 @@
   <h3>About me</h3>
   <p>
   I like to learn new things and talk about things that fascinate me about the IT and Computer Science world.
+  </p>
+  <p>
+  I Like videogames, and also I'm learning japanese.
   </p>
 </div>
 
