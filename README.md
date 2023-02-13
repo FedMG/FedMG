@@ -1,6 +1,6 @@
 <!--
 <p align="center" width="300">
-   <img align="center" width="180" src="https://avatars.githubusercontent.com/u/75050231?v=4" />  
+   <img align="center" width="180" src="" />  
    <h3 align="center">FedMG</h3>
 </p>
 -->
@@ -40,12 +40,17 @@
 
 <div align="center">
   <h3>About me</h3>
-  <p>
-  I like to learn new things and talk about things that fascinate me about the IT and Computer Science world.
-  </p>
-  <p>
-  I Like videogames, and also I'm learning japanese.
-  </p>
+   <ul align="center" type="none">
+     <li>
+       I like to learn new things and talk about things that fascinate me about the IT and Computer Science world.
+     </li>
+     <li>
+        I'm pursuing a bachelor's degree in Data Science at UBA.
+     </li>
+     <li>
+       I Like videogames, and also I'm learning japanese.
+     </li>
+   <ul>
 </div>
 
 
