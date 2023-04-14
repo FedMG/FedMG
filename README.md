@@ -26,10 +26,7 @@
 
 <ul align="center" type="none">
   <li>
-    🌱 I’m currently learning NodeJS and Typescript.
-  </li>
-  <li>
-    I’m looking and I would like to collaborate on projects <strong>Open Source</strong>.
+   🌱 I’m looking and I would like to collaborate on projects <strong>Open Source</strong>.
   </li>
   <li>
     This is my personal <a href="https://saydeploy.vercel.app/" target="_blank">portfolio</a>.
