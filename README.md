@@ -29,8 +29,11 @@
      📚 I am currently learning and deepening in Python and its main frameworks and server architectures.
    </li>
   <li>
-    I am working on a new portfolio, please, if you want to see my most relevant projects go to my <a href="https://www.linkedin.com/in/federico-gonzalia/details/projects/" target="_blank">LinkedIn projects</a>.
+   🛠 I am working on a new portfolio, please, if you want to see my most relevant projects go to my <a href="https://www.linkedin.com/in/federico-gonzalia/details/projects/" target="_blank">LinkedIn projects</a>.
   </li>
+   <li>
+    🔧 I am currently having some technical problems with my computer but I am working on it 💪. 
+   </li>
 </ul>
 
 <br />
@@ -42,10 +45,10 @@
        I like to learn new things and talk about things that fascinate me about the IT and Computer Science world.
      </li>
      <li>
-        I'm pursuing a bachelor's degree in Data Science at UBA.
+       👨‍🎓 I'm pursuing a bachelor's degree in Data Science 📊 at UBA.
      </li>
      <li>
-       I Like videogames, and also I'm learning japanese.
+      🎮 I Like videogames, I'm learning japanese 📖, and I started going to the gym 🏋️‍♂
      </li>
    <ul>
 </div>
