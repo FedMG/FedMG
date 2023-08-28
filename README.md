@@ -25,8 +25,11 @@
   <li>
    🌱 I’m looking and I would like to collaborate on projects <strong>Open Source</strong>.
   </li>
+   <li>
+     📚 I am currently learning and deepening in Python and its main frameworks and server architectures.
+   </li>
   <li>
-    This is my <a href="https://saydeploy.vercel.app/" target="_blank">portfolio</a>.
+    I am working on a new portfolio, please, if you want to see my most relevant projects go to my <a href="https://www.linkedin.com/in/federico-gonzalia/details/projects/" target="_blank">LinkedIn projects</a>.
   </li>
 </ul>
 
