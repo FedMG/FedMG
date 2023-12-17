@@ -45,9 +45,6 @@
        I like to learn new things and talk about things that fascinate me about the IT and Computer Science world.
      </li>
      <li>
-       👨‍🎓 I'm pursuing a bachelor's degree in Data Science 📊 at UBA.
-     </li>
-     <li>
       🎮 I love outdoor activities. I Like videogames, I'm learning japanese 📖, I also like to go to the gym 🏋️‍♂
      </li>
    <ul>
